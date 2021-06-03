@@ -1,0 +1,11 @@
+#define SCREEN_WIDTH   1800
+#define SCREEN_HEIGHT  1000
+#define WOOD 0
+#define WHEAT 1
+#define ORE 2
+#define WOOL 3
+#define CLAY 4
+#define VICTORYPOINT 5
+#define DESERT 7
+#define WATER 8
+#define THREEONE 9

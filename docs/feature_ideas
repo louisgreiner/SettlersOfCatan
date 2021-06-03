@@ -1,0 +1,5 @@
+- Create a sprite atlas (one image with all our sprites), and only copy a portion of it when we want to display an element, by using the SDL function "blit"
+- Adapt size of number on tiles according to the probability to get it (6 is bigger than 2)
+- Don't load the roll button for each frame, only when it changes from onclick to normal (un-comment the SDL_LogMessage in draw.c)
+- Change mouse cursor when on a button
+- "game_phase" (=0,1,2,3 ou 4) instead of game_process etc...
